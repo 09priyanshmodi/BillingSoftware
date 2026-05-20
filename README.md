@@ -114,8 +114,5 @@ The application should now be running on `http://localhost:5173` (or the port sp
 
 
 
-## Author
-
-* Vishal Singh - https://www.linkedin.com/in/vishal-singh-81988928b/ - https://github.com/vishalsingh-2004
 
 Feel free to connect with me if you have any questions or feedback!
